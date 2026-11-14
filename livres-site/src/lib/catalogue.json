@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "Anatomie_du_fichier_berkios_json_Manuel_de_formation",
+    "title": "L’anatomie du fichier .berkios.json — Manuel de formation",
+    "filename": "Anatomie_du_fichier_berkios_json_Manuel_de_formation.pdf",
+    "cover": "Anatomie_du_fichier_berkios_json_Manuel_de_formation.png",
+    "pages": 49,
+    "author": "BERKIOS",
+    "description": "Lire, comprendre, écrire et valider un projet BERKIOS GRAPHIC à la main ou par script."
+  },
+  {
+    "slug": "Apprendre-BERKIOS-Graphic-Studio-Livre1-Debutant",
+    "title": "Apprendre à créer des applications avec BERKIOS GRAPHIC Studio",
+    "filename": "Apprendre-BERKIOS-Graphic-Studio-Livre1-Debutant.pdf",
+    "cover": "Apprendre-BERKIOS-Graphic-Studio-Livre1-Debutant.png",
+    "pages": 117,
+    "author": "BERKIOS",
+    "description": "Livre 1 pour débutants : 36 exercices progressifs, de « Bonjour » au jeu complet, avec des scripts vérifiés."
+  },
+  {
+    "slug": "Apprendre_a_programmer_avec_Berkios_Code",
+    "title": "Apprendre à programmer avec Berkios Code",
+    "filename": "Apprendre_a_programmer_avec_Berkios_Code.pdf",
+    "cover": "Apprendre_a_programmer_avec_Berkios_Code.png",
+    "pages": 220,
+    "author": "BERKIOS",
+    "description": "Guide pour débutants : du premier « afficher » à la première application complète."
+  },
+  {
+    "slug": "Creer_et_gerer_des_modeles_de_donnees",
+    "title": "Créer et gérer des modèles de données",
+    "filename": "Creer_et_gerer_des_modeles_de_donnees.pdf",
+    "cover": "Creer_et_gerer_des_modeles_de_donnees.png",
+    "pages": 94,
+    "author": "BERKIOS",
+    "description": "De la conception à la migration : tables, clés, relations, intégrité, SQLite et gestion des bases dans le temps."
+  },
+  {
+    "slug": "GUIDE_BERKIOS_GRAPHIC_STUDIO",
+    "title": "Guide d’utilisation de BERKIOS GRAPHIC Studio",
+    "filename": "GUIDE_BERKIOS_GRAPHIC_STUDIO.pdf",
+    "cover": "GUIDE_BERKIOS_GRAPHIC_STUDIO.png",
+    "pages": 143,
+    "author": "Kionga Timothée Splane",
+    "description": "Concevoir, programmer, tester et déployer ses applications avec BERKIOS GRAPHIC Studio."
+  },
+  {
+    "slug": "La_bibliotheque_Systeme_BERKIOS_GRAPHIC",
+    "title": "La bibliothèque Système — BERKIOS GRAPHIC",
+    "filename": "La_bibliotheque_Systeme_BERKIOS_GRAPHIC.pdf",
+    "cover": "La_bibliotheque_Systeme_BERKIOS_GRAPHIC.png",
+    "pages": 122,
+    "author": "Kionga Timothée Splane",
+    "description": "Guide de référence : définition, rôle, exemple et utilisation des 85 commandes du Bridge et de la bibliothèque système."
+  },
+  {
+    "slug": "Livre_BERKIOS_COMPILER_BERKIOS_CODE_2026_Kionga_Timothee_Splane",
+    "title": "BERKIOS COMPILER et BERKIOS CODE — Édition 2026",
+    "filename": "Livre_BERKIOS_COMPILER_BERKIOS_CODE_2026_Kionga_Timothee_Splane.pdf",
+    "cover": "Livre_BERKIOS_COMPILER_BERKIOS_CODE_2026_Kionga_Timothee_Splane.png",
+    "pages": 24,
+    "author": "Kionga Timothée Splane",
+    "description": "Guide pratique du compilateur, du langage déclaratif .bk et de BERKIOS Core .bks : installer, valider, compiler, exécuter."
+  },
+  {
+    "slug": "Livre_BERKIOS_GRAPHIC_BERKIOS_CODE_2026_Kionga_Timothee_Splane",
+    "title": "BERKIOS GRAPHIC et BERKIOS CODE — Édition 2026",
+    "filename": "Livre_BERKIOS_GRAPHIC_BERKIOS_CODE_2026_Kionga_Timothee_Splane.pdf",
+    "cover": "Livre_BERKIOS_GRAPHIC_BERKIOS_CODE_2026_Kionga_Timothee_Splane.png",
+    "pages": 18,
+    "author": "Kionga Timothée Splane",
+    "description": "Une approche de programmation visuelle et textuelle, du composant à l’application : définitions, objectifs, méthodes et exemples."
+  },
+  {
+    "slug": "Manuel_226_commandes_BERKIOS",
+    "title": "Manuel des 226 commandes BERKIOS GRAPHIC",
+    "filename": "Manuel_226_commandes_BERKIOS.pdf",
+    "cover": "Manuel_226_commandes_BERKIOS.png",
+    "pages": 116,
+    "author": "Kionga Timothée Splane",
+    "description": "Référence numérotée avec cas d’usage, exemples et un projet complet : BERKIOS Boutique."
+  },
+  {
+    "slug": "Manuel_de_formation_BERKIOS_GRAPHIC",
+    "title": "Manuel de formation BERKIOS GRAPHIC",
+    "filename": "Manuel_de_formation_BERKIOS_GRAPHIC.pdf",
+    "cover": "Manuel_de_formation_BERKIOS_GRAPHIC.png",
+    "pages": 64,
+    "author": "Kionga Timothée Splane",
+    "description": "Concevoir, programmer et livrer des applications avec le Studio, BERKIOS CODE et le Bridge."
+  },
+  {
+    "slug": "Pseudo-code_avec_BERKIOS_CODE",
+    "title": "Pseudo-code avec BERKIOS CODE",
+    "filename": "Pseudo-code_avec_BERKIOS_CODE.pdf",
+    "cover": "Pseudo-code_avec_BERKIOS_CODE.png",
+    "pages": 85,
+    "author": "BERKIOS",
+    "description": "Apprendre à écrire des algorithmes, pas à pas, en français."
+  },
+  {
+    "slug": "RECUEIL_EXERCICES_BERKIOS_GRAPHIC_STUDIO",
+    "title": "Recueil d’exercices de BERKIOS GRAPHIC Studio",
+    "filename": "RECUEIL_EXERCICES_BERKIOS_GRAPHIC_STUDIO.pdf",
+    "cover": "RECUEIL_EXERCICES_BERKIOS_GRAPHIC_STUDIO.png",
+    "pages": 31,
+    "author": "Kionga Timothée Splane",
+    "description": "Exercices progressifs et corrigés pour maîtriser le Studio."
+  },
+  {
+    "slug": "Recueil_d_exercices_modeles_de_donnees",
+    "title": "Recueil d’exercices — Créer et gérer des modèles de données",
+    "filename": "Recueil_d_exercices_modeles_de_donnees.pdf",
+    "cover": "Recueil_d_exercices_modeles_de_donnees.png",
+    "pages": 110,
+    "author": "BERKIOS",
+    "description": "Exercices, problèmes et corrigés vérifiés par exécution avec SQLite. Compagnon du livre « Créer et gérer des modèles de données »."
+  },
+  {
+    "slug": "Recueil_exercices_BERKIOS",
+    "title": "Recueil d’exercices BERKIOS GRAPHIC",
+    "filename": "Recueil_exercices_BERKIOS.pdf",
+    "cover": "Recueil_exercices_BERKIOS.png",
+    "pages": 70,
+    "author": "Kionga Timothée Splane",
+    "description": "81 exercices, 15 erreurs à corriger, 24 QCM, 13 exercices de projet et 3 examens blancs, avec corrigés."
+  },
+  {
+    "slug": "Recueil_exercices_BERKIOS_CODE",
+    "title": "Recueil d’exercices BERKIOS CODE",
+    "filename": "Recueil_exercices_BERKIOS_CODE.pdf",
+    "cover": "Recueil_exercices_BERKIOS_CODE.png",
+    "pages": 89,
+    "author": "BERKIOS",
+    "description": "84 exercices corrigés pour apprendre en pratiquant le langage déclaratif : interfaces, commandes, Excel, débogage et projets."
+  }
+]
